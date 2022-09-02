@@ -7,7 +7,7 @@ void main() {
       home: Scaffold(
         backgroundColor: Colors.blueGrey,
         appBar: AppBar(
-          title: const Center(child: Text('We are Stardust002')),
+          title: const Center(child: Text('We are Stardust003')),
           backgroundColor: Colors.blueGrey[900],
         ),
         body: const Center(
